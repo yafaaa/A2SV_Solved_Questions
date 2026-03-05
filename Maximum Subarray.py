@@ -1,8 +1,5 @@
-from collections import defaultdict
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        d = defaultdict()
-        d[0] = 1
         prefix = 0
         mn = 0 
         mx = float('-inf')
