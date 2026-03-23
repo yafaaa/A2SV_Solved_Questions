@@ -5,11 +5,11 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    
+    def __init__(self):
+        self.d = dict()
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        d = dict()
         for i in range(len(inorder)):
-            d[inorder[i]] = i
+            self.d[inorder[i]] = i
         return self.fun(preorder, inorder)
         
         
@@ -17,11 +17,7 @@ class Solution:
         if not preorder or not inorder:
             return
         node = TreeNode(preorder[0])
-        idx = 0
-        for i in range(len(inorder)):
-            if inorder[i]== preorder[0]:
-                idx = i
-                break
+        idx = self.d[preorder[0]]
         preorder.pop(0)
         node.left = self.buildTree(preorder, inorder[:idx])
         node.right = self.buildTree(preorder, inorder[idx+1:])
