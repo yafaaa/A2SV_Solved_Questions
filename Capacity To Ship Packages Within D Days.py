@@ -2,30 +2,29 @@ class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
         l = max(weights)
         r = sum(weights)
+        ans = r
 
         def fun(cap):
-            cnt = 1
-            curr = 0
-            mx = float('inf')
+            curr_d = 1
+            curr_cap = 0
+
             for w in weights:
-                if curr+w >cap:
-                    cnt += 1
-                    mx = max(curr, mx)
-                    curr = 0
-                
-                curr += w
-
-                if cnt > days:
-                    break
-            if cnt == days:
-                mx = max(curr, mx)
-                return mx
-            return float('inf')
-
-        while l<=r:
+                if curr_cap + w > cap:
+                    curr_d += 1
+                    curr_cap = 0
+                curr_cap += w
+            return curr_d <= days
+        
+        while l <= r:
             m = (l+r)//2
-            v = fun(m) 
-            if v 
-                
 
+            if fun(m):
+                ans = m
+                r = m - 1
+            else:
+                l = m + 1
+        return ans
+
+
+            
 
