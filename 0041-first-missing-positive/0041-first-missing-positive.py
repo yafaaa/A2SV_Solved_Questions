@@ -13,7 +13,7 @@ class Solution:
         for idx in range(n):
             if nums[idx] != idx+1:
                 return idx+1
-        return n
+        return n+1
             
             
             
