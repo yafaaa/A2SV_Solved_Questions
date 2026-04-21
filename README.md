@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -61,13 +62,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
