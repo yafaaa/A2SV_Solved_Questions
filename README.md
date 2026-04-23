@@ -79,6 +79,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -103,4 +105,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
