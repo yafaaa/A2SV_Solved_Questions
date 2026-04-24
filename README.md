@@ -80,6 +80,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -92,6 +93,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -104,6 +106,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Tree
@@ -125,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
