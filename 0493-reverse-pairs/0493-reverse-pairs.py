@@ -11,7 +11,7 @@ class Solution:
             right_arr = merge(mid+1, r)
             
             for num in left_arr:
-                cnt += bisect_left(right_arr, (num+1)/2) # same as math.ceil(num/2) but this won't work for negeative
+                cnt += bisect_left(right_arr, (num+1)//2) # same as math.ceil(num/2) but this won't work for negeative
                 # or cnt += len(left_arr) - bisect_right(left_arr, 2 * j)
             return sorted(left_arr + right_arr)
 
