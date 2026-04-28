@@ -1,23 +1,38 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        graph = defaultdict(list)
-        prequist = [0] * numCourses #prequist == incoming(indegree)
+        graph = [[] for _ in range(numCourses)]
+        color = [0] * numCourses
+        order = []
         for course, pre in prerequisites:
             graph[pre].append(course)
-            prequist[course] += 1
 
-        dq = deque([c for c in range(numCourses) if not prequist[c]])
-        ans = []
-        while dq:
-            pre = dq.popleft()
-            ans.append(pre)
-            for course in graph[pre]:
-                prequist[course] -= 1
 
-                if not prequist[course]:
-                    dq.append(course)
 
-        if len(ans) != numCourses:
-            return []
-        return ans
+        def dfs(node):
+            
+            if color[node] == 1:
+                return False
+            color[node] = 1
+            
+
+            for child in graph[node]:
+                
+                if color[child] != 2:
+                    if not dfs(child):
+                        return False
+
+            color[node] = 2
+            order.append(node)
+            return True
+
+        for node in range(numCourses):
+            if color[node] != 0:
+                continue
+            if not dfs(node):
+                return []
+        
+        return order[::-1]
+        
+        
+        
 
