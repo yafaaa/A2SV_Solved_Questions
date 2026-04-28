@@ -1,7 +1,7 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
-        prequist = [0] * numCourses
+        prequist = [0] * numCourses #prequist == incoming(indegree)
         for course, pre in prerequisites:
             graph[pre].append(course)
             prequist[course] += 1
@@ -16,6 +16,7 @@ class Solution:
 
                 if not prequist[course]:
                     dq.append(course)
+
         if len(ans) != numCourses:
             return []
         return ans
