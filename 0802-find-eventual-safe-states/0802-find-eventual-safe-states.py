@@ -26,4 +26,22 @@ class Solution:
         
         ans.sort()
         return ans
+# Standard way
+# n = len(graph)
+# state = [0] * n  # 0: unvisited, 1: visiting, 2: safe
+
+# def dfs(node: int) -> bool:
+# if state[node] != 0:
+# return state[node] == 2  # 2 = safe, 1 = cycle/unsafe
+
+# state[node] = 1  # mark as currently visiting
+
+# for child in graph[node]:
+# if state[child] == 1 or not dfs(child):
+#     return False  # cycle detected or leads to unsafe node
+    
+# state[node] = 2  # all children are safe -> this node is safe
+# return True
+
+# return [i for i in range(n) if dfs(i)]
             
