@@ -23,6 +23,7 @@ class Solution:
         for i in range(n):
             if  not visited[i] :
                 dfs(i)
-            
-        return sorted(ans)
+        
+        ans.sort()
+        return ans
             
