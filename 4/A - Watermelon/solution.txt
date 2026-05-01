@@ -1,0 +1,6 @@
+numm = int(input())
+if numm%2 == 0 and numm > 2:
+    print("YES")
+else:
+    print("NO")
+ 
