@@ -16,6 +16,7 @@
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0493-reverse-pairs/) | Hard |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
@@ -95,6 +96,7 @@
 | [0200-number-of-islands](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
+| [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
