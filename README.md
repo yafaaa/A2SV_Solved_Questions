@@ -18,6 +18,7 @@
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Divide and Conquer
@@ -146,6 +147,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Tree
@@ -180,5 +182,10 @@
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 <!---LeetCode Topics End-->
