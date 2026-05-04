@@ -111,6 +111,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -129,6 +130,7 @@
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -146,6 +148,7 @@
 | [0785-is-graph-bipartite](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -182,6 +185,7 @@
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Dynamic Programming
