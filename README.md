@@ -18,6 +18,7 @@
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
@@ -39,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +194,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 <!---LeetCode Topics End-->
