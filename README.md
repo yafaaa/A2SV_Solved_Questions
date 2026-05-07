@@ -17,6 +17,7 @@
 | [0493-reverse-pairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0493-reverse-pairs/) | Hard |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1649-create-sorted-array-through-instructions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -40,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
