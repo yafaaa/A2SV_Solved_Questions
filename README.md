@@ -18,6 +18,7 @@
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0493-reverse-pairs/) | Hard |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1649-create-sorted-array-through-instructions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
@@ -40,12 +41,14 @@
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -58,6 +61,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,4 +226,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
