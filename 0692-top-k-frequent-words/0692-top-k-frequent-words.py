@@ -1,13 +1,11 @@
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
         d = Counter(words)
-        # min_heap = [(v,k) for k, v in d.items()]
-        s = sorted(d.items(), key = lambda x: (-x[1], x[0]))
+        max_heap = [(-v,k) for k, v in d.items()]
+        heapq.heapify(max_heap)
         ans = []
-        for i in range(k):
-            ans.append(s[i][0])
+
+        for _ in range(k):
+            _, string = heapq.heappop(max_heap)
+            ans.append(string)
         return ans
-        
-
-
-
