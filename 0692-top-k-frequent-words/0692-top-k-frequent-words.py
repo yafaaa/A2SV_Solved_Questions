@@ -6,6 +6,5 @@ class Solution:
         ans = []
 
         for _ in range(k):
-            _, string = heapq.heappop(max_heap)
-            ans.append(string)
+            ans.append(heapq.heappop(max_heap)[1])
         return ans
