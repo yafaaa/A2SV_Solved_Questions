@@ -185,6 +185,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -209,6 +210,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -242,4 +244,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
