@@ -20,14 +20,16 @@ class Solution:
                 else:
                     break
                 
+            
             if min_heap:
                 pt, idx, e = heapq.heappop(min_heap)
                 curr_time += pt
                 ans.append(idx)
-                
-            elif b <len(tasks):
+
+            elif b < len(tasks):
                 e, pt, idx = tasks[b]
-                curr_time = e
+                curr_time = e    
+            
 
         return ans
         
