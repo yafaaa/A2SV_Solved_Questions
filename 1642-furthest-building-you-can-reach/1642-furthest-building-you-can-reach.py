@@ -4,16 +4,17 @@ class Solution:
         min_heap = []
         heapq.heapify(min_heap)
         
-        for i in range(1, len(heights)):
-            diff = heights[i] - heights[i-1]
+        for i in range(len(heights)-1):
+            diff = heights[i+1] - heights[i]
             if diff > 0:
                 heapq.heappush(min_heap, diff)
+
                 if len(min_heap) > ladders:
                     t = heapq.heappop(min_heap)
                     if t <= bricks:
                         bricks -= t
                     else:
-                        return i - 1
+                        return i 
             
             
         return len(heights)-1
