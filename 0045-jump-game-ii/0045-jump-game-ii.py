@@ -2,17 +2,13 @@ class Solution:
     def jump(self, nums: List[int]) -> int:
         
         n = len(nums)
-        @cache
-        def backtrack(i):
-
-            if i == n-1:
-            
-                return 0
-            mn = inf
+        dp = [inf] * n
+        dp[-1] = 0
+        for i in range(n - 2, -1, -1):
             for idx in range(i + 1, min(i + nums[i] + 1, n)):
-                mn = min(mn, 1 + backtrack(idx))
-            return mn
-        return backtrack(0)
+                dp[i] = min(dp[i], 1 + dp[idx])
+
+        return dp[0]
 
 
 
