@@ -1,16 +1,15 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
         
-        n = len(nums)
-        dp = [inf] * n
-        dp[-1] = 0
-        for i in range(n - 2, -1, -1):
-            for idx in range(i + 1, min(i + nums[i] + 1, n)):
-                dp[i] = min(dp[i], 1 + dp[idx])
-
-        return dp[0]
-
-
-
+        maxi_idx = 0
+        my_end = 0
+        ans = 0
+        for i in range(len(nums) - 1):
+            num = nums[i]
+            maxi_idx = max(maxi_idx, i + num)
+            if i == my_end:
+                ans += 1
+                my_end = maxi_idx
+        return ans
 
         
