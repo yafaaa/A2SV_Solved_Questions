@@ -20,7 +20,6 @@ class Solution:
                 else:
                     break
                 
-            
             if min_heap:
                 pt, idx, e = heapq.heappop(min_heap)
                 curr_time += pt
