@@ -1,7 +1,7 @@
 class Solution:
     def fib(self, n: int) -> int:
+        memo = {}
         def fun(n):
-            memo = {}
             if n == 1:
                 return 1
             if n == 0:
