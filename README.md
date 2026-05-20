@@ -19,6 +19,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0493-reverse-pairs/) | Hard |
+| [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
@@ -45,6 +46,7 @@
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Heap (Priority Queue)
@@ -53,6 +55,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
@@ -229,6 +232,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
+| [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Design
