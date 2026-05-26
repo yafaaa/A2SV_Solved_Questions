@@ -10,7 +10,7 @@ class Solution:
                     j += 1
                 count += j
             
-            # merge
+            # merge, this can be replaced by return sorted(right + left)
             merged = []
             i = j = 0
             while i < len(left) and j < len(right):
