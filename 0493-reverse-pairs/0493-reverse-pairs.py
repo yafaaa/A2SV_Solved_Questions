@@ -11,17 +11,19 @@ class Solution:
                 count += j
             
             # merge, this can be replaced by return sorted(right + left)
-            merged = []
-            i = j = 0
-            while i < len(left) and j < len(right):
-                if left[i] <= right[j]:
-                    merged.append(left[i])
-                    i += 1
-                else:
-                    merged.append(right[j])
-                    j += 1
-            merged.extend(left[i:])
-            merged.extend(right[j:])
+
+            # merged = []
+            # i = j = 0
+            # while i < len(left) and j < len(right):
+            #     if left[i] <= right[j]:
+            #         merged.append(left[i])
+            #         i += 1
+            #     else:
+            #         merged.append(right[j])
+            #         j += 1
+            # merged.extend(left[i:])
+            # merged.extend(right[j:])
+            merged = sorted(left + right)
             
             return merged, count
         
