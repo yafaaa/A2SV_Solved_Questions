@@ -1,19 +1,42 @@
 class Solution:
     def reversePairs(self, nums: List[int]) -> int:
-        cnt = 0
-        def merge(l, r):
-            nonlocal cnt
-            if l == r:
-                return [nums[l]]
-            mid = (l+r)//2
             
-            left_arr = merge(l, mid)
-            right_arr = merge(mid+1, r)
+        def merge(left, right):
             
-            for num in left_arr:
-                cnt += bisect_left(right_arr, (num+1)//2) # same as math.ceil(num/2) but this won't work for negeative
-                # or cnt += len(left_arr) - bisect_right(left_arr, 2 * j)
-            return sorted(left_arr + right_arr)
+            count = 0
+            j = 0
+            for i in range(len(left)):
+                while j < len(right) and left[i] > 2 * right[j]:
+                    j += 1
+                count += j
+            
+            # merge
+            merged = []
+            i = j = 0
+            while i < len(left) and j < len(right):
+                if left[i] <= right[j]:
+                    merged.append(left[i])
+                    i += 1
+                else:
+                    merged.append(right[j])
+                    j += 1
+            merged.extend(left[i:])
+            merged.extend(right[j:])
+            
+            return merged, count
+        
+        
+        def merge_sort(nums):
+            if len(nums) <= 1:
+                return nums, 0
+            
+            mid = len(nums) // 2
+            left, lcnt = merge_sort(nums[:mid])
+            right, rcnt = merge_sort(nums[mid:])
+            merged, count = merge(left, right)
+            return merged, lcnt + count + rcnt
+            
 
-        merge(0, len(nums)-1)
-        return cnt
+        
+        _, ans = merge_sort(nums)
+        return ans
