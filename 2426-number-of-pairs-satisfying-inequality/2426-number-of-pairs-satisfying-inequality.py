@@ -3,24 +3,23 @@ class Solution:
         arr = []
         for i in range(len(nums1)):
             arr.append(nums1[i]-nums2[i])
-        
         ans = 0
-
         def merge(l, r):
             nonlocal ans
             if l == r:
                 return [arr[l]]
-            
-            mid = (l+r)//2
+            mid = (l+r) // 2
+            left = merge(l, mid)
+            right = merge(mid+1, r)
 
-            left_arr = merge(l,mid)
-            right_arr = merge(mid+1,r)
+            for a in left:
+                rank = bisect_left(right, a-diff) 
+                ans += len(right)-rank
             
-            for j in right_arr:
-                idx = bisect_right(left_arr, j+diff)
-                ans += idx
-            return sorted(left_arr + right_arr)
+            return sorted(left + right)
         
-        merge(0, len(arr)-1)
+        merge(0, len(arr)-1)        
         return ans
 
+
+        
