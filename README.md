@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0130-surrounded-regions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
@@ -123,6 +124,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
@@ -232,6 +234,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0198-house-robber/) | Medium |
