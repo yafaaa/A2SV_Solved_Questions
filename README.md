@@ -221,6 +221,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +244,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Greedy
@@ -269,6 +271,7 @@
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0072-edit-distance/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
