@@ -3,22 +3,22 @@ class Solution:
         n = len(piles)
         memo = {}
 
-        def dp(i, j, f):
+        def dp(i, j):
 
             if i > j:
                 return 0
 
-            if (i,j,f) in memo:
-                return memo[(i,j,f)]
+            if (i,j) in memo:
+                return memo[(i,j)]
             
-            l = piles[i]*f + dp(i+1, j, f*-1)
-            r = piles[j]*f + dp(i, j-1, f*-1)
+            l = piles[i] + dp(i+1, j)
+            r = piles[j] + dp(i, j-1)
 
             
-            memo[(i,j,f)] = max(l,r) if f == 1 else min(l,r)
-            return memo[(i,j,f)]
-        ans = dp(0, n-1, 1)
-        return ans > 0
+            memo[(i,j)] = max(l,r)
+            return memo[(i,j)]
+
+        return dp(0, n-1) > 0
             
             
 
