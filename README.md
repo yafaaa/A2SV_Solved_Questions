@@ -27,6 +27,7 @@
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0813-largest-sum-of-averages/) | Medium |
+| [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1642-furthest-building-you-can-reach](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
@@ -207,6 +208,7 @@
 | [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0813-largest-sum-of-averages](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0813-largest-sum-of-averages/) | Medium |
+| [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -306,4 +309,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
