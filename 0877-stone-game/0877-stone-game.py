@@ -11,8 +11,8 @@ class Solution:
             if (i,j) in memo:
                 return memo[(i,j)]
             
-            l = piles[i] + dp(i+1, j)
-            r = piles[j] + dp(i, j-1)
+            l = piles[i] - dp(i+1, j)
+            r = piles[j] - dp(i, j-1)
 
             
             memo[(i,j)] = max(l,r)
