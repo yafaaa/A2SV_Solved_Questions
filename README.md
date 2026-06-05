@@ -12,6 +12,7 @@
 | [0130-surrounded-regions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -242,6 +243,7 @@
 | [0072-edit-distance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0072-edit-distance/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0322-coin-change/) | Medium |
