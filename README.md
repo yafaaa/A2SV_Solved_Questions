@@ -22,6 +22,7 @@
 | [0327-count-of-range-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0327-count-of-range-sum/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0493-reverse-pairs/) | Hard |
@@ -252,6 +253,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
