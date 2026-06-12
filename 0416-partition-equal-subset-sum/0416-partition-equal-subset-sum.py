@@ -13,12 +13,6 @@ class Solution:
             
             if curr > target or i == n:
                 return False
-                
-            take = dp(i+1, curr+nums[i])
-            if take:
-                return True
 
-            skip = dp(i+1, curr)
-
-            return take or skip
+            return dp(i+1, curr+nums[i]) or dp(i+1, curr)
         return dp(0, 0)
