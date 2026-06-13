@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
@@ -131,6 +132,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
@@ -243,6 +245,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0072-edit-distance/) | Medium |
