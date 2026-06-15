@@ -6,10 +6,13 @@ class Solution:
         def dp(i):
             if i == n:
                 return 1
+            if i > n:
+                return 0
             ways = 0
-            for j in range(i,i+2):
-                if s[i:j+1] in seen:
-                    ways +=  dp(j+1)
+            if s[i] in seen:
+                ways += dp(i+1)
+            if s[i:i+2] in seen:
+                ways +=  dp(i+2)
             return ways
         
         return dp(0)
