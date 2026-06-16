@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -246,6 +247,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -274,6 +276,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
