@@ -30,6 +30,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0494-target-sum/) | Medium |
 | [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
 | [0518-coin-change-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0518-coin-change-ii/) | Medium |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
@@ -235,6 +236,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0494-target-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -271,6 +273,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0518-coin-change-ii/) | Medium |
