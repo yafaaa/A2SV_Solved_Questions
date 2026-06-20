@@ -33,4 +33,4 @@ class Solution:
                 if matrix[r][c] == '1':
                     solve(r, c)
                     
-        return max_side * max_side
+        return max_side ** 2
