@@ -34,6 +34,7 @@
 | [0518-coin-change-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0518-coin-change-ii/) | Medium |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0813-largest-sum-of-averages](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0813-largest-sum-of-averages/) | Medium |
@@ -274,6 +275,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0813-largest-sum-of-averages](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0813-largest-sum-of-averages/) | Medium |
@@ -287,6 +289,7 @@
 | [0055-jump-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Design
