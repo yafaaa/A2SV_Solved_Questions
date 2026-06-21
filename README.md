@@ -285,6 +285,7 @@
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
