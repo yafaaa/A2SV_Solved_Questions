@@ -175,6 +175,7 @@
 | [0130-surrounded-regions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
@@ -226,6 +227,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0279-perfect-squares](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -269,6 +271,7 @@
 | [0198-house-robber](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0221-maximal-square/) | Medium |
+| [0279-perfect-squares](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0322-coin-change/) | Medium |
