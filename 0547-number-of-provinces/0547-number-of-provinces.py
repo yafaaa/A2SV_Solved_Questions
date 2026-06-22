@@ -28,7 +28,7 @@ class Solution:
         dsu = DSU(n)
         
         for r in range(n):
-            for c in range(n):
+            for c in range(r+1, n):
                 if isConnected[r][c] == 1:
                     dsu.union(r,c)
         return len([key for key, value in dsu.parent.items() if key == value])
