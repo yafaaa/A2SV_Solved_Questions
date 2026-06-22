@@ -42,6 +42,7 @@
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1306-jump-game-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
@@ -67,6 +68,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -94,6 +96,7 @@
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0740-delete-and-earn/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +168,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1306-jump-game-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -189,6 +193,7 @@
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1306-jump-game-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -202,6 +207,7 @@
 | [0547-number-of-provinces](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -330,6 +336,7 @@
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
