@@ -40,6 +40,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0813-largest-sum-of-averages](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -211,6 +212,7 @@
 | [0684-redundant-connection](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -223,6 +225,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -343,6 +346,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Trie
