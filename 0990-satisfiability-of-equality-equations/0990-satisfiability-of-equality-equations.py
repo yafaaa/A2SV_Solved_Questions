@@ -17,9 +17,7 @@ class Solution:
         def union(x, y):
             rootx = find(x)
             rooty = find(y)
-
-            if rootx == rooty:
-                return True
+            
             parent[rooty] = rootx
 
         for s in equations:
