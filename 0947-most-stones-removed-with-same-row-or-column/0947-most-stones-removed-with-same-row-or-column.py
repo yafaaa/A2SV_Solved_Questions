@@ -4,10 +4,10 @@ class Solution:
         parent = {}
 
         def find(i):
-            # If it's a new node, point it to itself
+            
             if i not in parent:
                 parent[i] = i
-            # Path compression
+      
             if parent[i] != i:
                 parent[i] = find(parent[i])
             return parent[i]
@@ -19,11 +19,8 @@ class Solution:
                 parent[root_i] = root_j
 
         for r, c in stones:
-            
-            
             union(r, ~c)
-
         
-        unique_components = len({x for x in parent if x == parent[x]})
+        comp = len({x for x in parent if x == parent[x]})
 
-        return len(stones) - unique_components
+        return len(stones) - comp
