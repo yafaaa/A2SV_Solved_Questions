@@ -1,23 +1,29 @@
 class Solution:
-    def removeStones(self, stones: List[List[int]]) -> int:
-        n = len(stones)
-        parent = list(range(n))
+
+    def removeStones(self, stones: list[list[int]]) -> int:
+        parent = {}
+
+        def find(i):
+            # If it's a new node, point it to itself
+            if i not in parent:
+                parent[i] = i
+            # Path compression
+            if parent[i] != i:
+                parent[i] = find(parent[i])
+            return parent[i]
+
+        def union(i, j):
+            root_i = find(i)
+            root_j = find(j)
+            if root_i != root_j:
+                parent[root_i] = root_j
+
+        for r, c in stones:
+            
+            
+            union(r, ~c)
+
         
-        def find(x):
-            if parent[x] != x:
-                parent[x] = find(parent[x])
-            return parent[x]
-        
-        def union(a, b):
-            pa, pb = find(a), find(b)
-            if pa != pb:
-                parent[pa] = pb
-        
-        for i in range(n):
-            for j in range(i + 1, n):
-                if stones[i][0] == stones[j][0] or stones[i][1] == stones[j][1]:
-                    union(i, j)
-        
-        components = len(set(find(i) for i in range(n)))
-        
-        return n - components
+        unique_components = len({x for x in parent if x == parent[x]})
+
+        return len(stones) - unique_components
