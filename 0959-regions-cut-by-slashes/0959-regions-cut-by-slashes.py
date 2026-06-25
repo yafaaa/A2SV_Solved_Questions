@@ -36,8 +36,6 @@ class Solution:
         for r in range(ex_n):
             for c in range(ex_n):
                 if e_grid[r][c] == 0:
-                    if (r,c) not in parent:
-                        parent[(r,c)] = (r,c)
 
                     if r+1 < ex_n and e_grid[r+1][c] != 1:
                         union((r, c), (r+1, c))
