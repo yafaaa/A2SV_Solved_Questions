@@ -40,6 +40,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0813-largest-sum-of-averages](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
+| [0959-regions-cut-by-slashes](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
@@ -99,6 +100,7 @@
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0740-delete-and-earn/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0959-regions-cut-by-slashes](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
+| [0959-regions-cut-by-slashes](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Depth-First Search
@@ -173,6 +176,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0959-regions-cut-by-slashes](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
@@ -198,6 +202,7 @@
 | [0785-is-graph-bipartite](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0959-regions-cut-by-slashes](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -216,6 +221,7 @@
 | [0684-redundant-connection](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0959-regions-cut-by-slashes](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
