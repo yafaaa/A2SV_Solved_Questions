@@ -11,6 +11,7 @@
 | [0064-minimum-path-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0139-word-break/) | Medium |
@@ -306,6 +307,7 @@
 | [0070-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0091-decode-ways/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0139-word-break/) | Medium |
