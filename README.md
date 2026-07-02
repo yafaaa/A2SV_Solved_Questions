@@ -51,6 +51,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1649-create-sorted-array-through-instructions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1834-single-threaded-cpu](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -75,6 +76,7 @@
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0721-accounts-merge/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1834-single-threaded-cpu](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -232,6 +234,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -288,6 +292,7 @@
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
