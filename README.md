@@ -234,6 +234,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -248,6 +249,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2050-parallel-courses-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2050-parallel-courses-iii/) | Hard |
