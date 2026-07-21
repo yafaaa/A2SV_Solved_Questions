@@ -306,6 +306,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
@@ -381,6 +382,7 @@
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0091-decode-ways/) | Medium |
+| [0125-valid-palindrome](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0139-word-break/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
