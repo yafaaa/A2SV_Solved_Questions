@@ -287,6 +287,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -380,6 +381,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0125-valid-palindrome/) | Easy |
@@ -431,4 +433,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
