@@ -175,6 +175,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
@@ -203,6 +204,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0200-number-of-islands/) | Medium |
@@ -271,6 +273,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0337-house-robber-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
@@ -279,6 +282,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0337-house-robber-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0337-house-robber-iii/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
