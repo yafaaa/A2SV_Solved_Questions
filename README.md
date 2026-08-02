@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0041-first-missing-positive](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0055-jump-game/) | Medium |
@@ -73,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -315,6 +317,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
