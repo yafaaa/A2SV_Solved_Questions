@@ -304,6 +304,7 @@
 | [0168-excel-sheet-column-title](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
