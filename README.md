@@ -306,6 +306,7 @@
 | [0258-add-digits](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0279-perfect-squares/) | Medium |
+| [0292-nim-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0292-nim-game/) | Easy |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -451,6 +452,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -468,4 +470,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
