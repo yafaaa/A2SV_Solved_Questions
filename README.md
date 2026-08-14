@@ -307,6 +307,7 @@
 | [0263-ugly-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0292-nim-game/) | Easy |
+| [0415-add-strings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0877-stone-game/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -406,6 +407,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0139-word-break/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0415-add-strings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0415-add-strings/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -466,6 +468,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0415-add-strings/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
