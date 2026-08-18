@@ -307,6 +307,7 @@
 | [0263-ugly-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
@@ -438,6 +439,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
