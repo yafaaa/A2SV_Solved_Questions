@@ -36,6 +36,7 @@
 | [0493-reverse-pairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0494-target-sum/) | Medium |
 | [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
+| [0506-relative-ranks](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0518-coin-change-ii/) | Medium |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -83,6 +84,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0414-third-maximum-number/) | Easy |
 | [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
+| [0506-relative-ranks](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0721-accounts-merge/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -95,6 +97,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
+| [0506-relative-ranks](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1046-last-stone-weight/) | Easy |
