@@ -336,6 +336,7 @@
 | [0075-sort-colors](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0344-reverse-string](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Topological Sort
@@ -415,6 +416,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0139-word-break/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0344-reverse-string](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0415-add-strings/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
