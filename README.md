@@ -419,6 +419,7 @@
 | [0344-reverse-string](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0415-add-strings/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
