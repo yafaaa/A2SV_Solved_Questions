@@ -35,6 +35,7 @@
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0494-target-sum/) | Medium |
+| [0500-keyboard-row](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0500-keyboard-row/) | Easy |
 | [0502-ipo](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0518-coin-change-ii/) | Medium |
@@ -114,6 +115,7 @@
 | [0041-first-missing-positive](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0041-first-missing-positive/) | Hard |
 | [0139-word-break](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0139-word-break/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0500-keyboard-row](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0500-keyboard-row/) | Easy |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0721-accounts-merge/) | Medium |
@@ -420,6 +422,7 @@
 | [0412-fizz-buzz](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0500-keyboard-row](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0500-keyboard-row/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
