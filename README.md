@@ -196,6 +196,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0721-accounts-merge/) | Medium |
@@ -227,6 +228,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0463-island-perimeter](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0684-redundant-connection/) | Medium |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0721-accounts-merge/) | Medium |
@@ -290,6 +292,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0337-house-robber-iii](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0337-house-robber-iii/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0690-employee-importance/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
