@@ -120,6 +120,7 @@
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0740-delete-and-earn/) | Medium |
+| [0771-jewels-and-stones](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0924-minimize-malware-spread](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0959-regions-cut-by-slashes](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0959-regions-cut-by-slashes/) | Medium |
@@ -430,6 +431,7 @@
 | [0647-palindromic-substrings](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0721-accounts-merge/) | Medium |
+| [0771-jewels-and-stones](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0990-satisfiability-of-equality-equations](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/yafaaa/A2SV_Solved_Questions/tree/main/1202-smallest-string-with-swaps/) | Medium |
